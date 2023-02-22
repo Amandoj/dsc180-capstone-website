@@ -5,10 +5,18 @@
 
 # Introduction
 
+# Methods
+
 # EDA 
 
-# PCA 
-
-# Machine Learning
+# Machine Learning Models
 
 # Results
+
+## Dimensionality Reduction
+
+## Model Performance
+
+# Conclusion
+
+# References
