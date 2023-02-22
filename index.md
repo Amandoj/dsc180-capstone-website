@@ -1,3 +1,14 @@
-# Capstone Example Jekyll Website
+# Multi-label Disease Prediction Based on Gut Microbiome
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
+
+# Abstract
+
+# Introduction
+
+# EDA 
+
+# PCA 
+
+# Machine Learning
+
+# Results
